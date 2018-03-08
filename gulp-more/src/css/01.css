@@ -1,0 +1,15 @@
+body {
+  background: #ccc;
+}
+.div {
+  width: 250px;
+  height: 240px;
+  border: 2px solid blue;
+  background: url(../images/my-bill.png);
+}
+.div2 {
+  background: url(../images/my-bill-active.png);
+}
+.div3 {
+  background: url(../images/intro3.png);
+}
